@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "astronaut-mascot",
+      "description": "A friendly cartoon astronaut mascot for the game.",
+      "imageUrl": "https://picsum.photos/seed/astronaut/300/300",
+      "imageHint": "astronaut cartoon"
+    },
+    {
+      "id": "treasure-chest",
+      "description": "A treasure chest for rewards.",
+      "imageUrl": "https://picsum.photos/seed/treasure/400/400",
+      "imageHint": "treasure chest open"
+    }
+  ]
+}
